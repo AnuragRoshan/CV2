@@ -1,0 +1,120 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Balsamiq Sans', cursive;
+     color: #40514e;
+}
+.divtop{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    margin: 0px auto 100px auto;
+}
+h1{
+    width: 100%;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    line-height: 2em;
+    /* margin-top: 50px; */
+    color:  #66BFBF;
+    font-family: 'Sacramento', cursive;
+}
+p{
+    line-height: 2;
+    margin-top: 30px;
+}
+h2{
+    
+        width: 100%;
+        margin: 30px auto 10px auto;
+        font-size: 2.5 rem;
+        color:  #66BFBF;
+        font-weight: normal;
+    
+}
+h3{
+    color:#11999E;
+}
+a{
+    color:#11999E;
+    margin: 10px 12px;
+    
+}
+.intro{
+    width: 100%;
+    margin: 30px auto 0 auto;
+    font-size: 38px;
+    position: relative;
+    /* margin-top: 30px; */
+}
+
+.divbot{
+    background-color: royalblue;
+    height: 200px;
+    width: 200px;
+}
+.under{
+    text-decoration: underline;
+    display: inline;
+}
+img{
+    display: inline-block;
+}
+.bottomCloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.topCloud{
+   position: absolute;
+   top: 50px;
+    right: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.imgskill{
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.imgskill2{
+    width: 50%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border-top: 8px dotted  #40514e;
+    align-content: center;
+    width: 4%;
+    size: 10rem;
+    margin: 50px auto 50px auto;
+}
+.intro2{
+    width: 40%;
+    margin:0 auto 0 auto;
+}
+.getintouch{
+    width: 40%;
+    margin: 0 auto 40px auto;
+}
+.bottom-container{
+background-color: #66BFBF;
+color: rgb(54, 52, 52);
+}
+.bottom-container a{
+    color: rgb(54, 52, 52);
+    text-decoration: none;
+}
+a{
+    background-color: #bddddd;
+    border-radius:4px;
+}
+a:hover{
+    background-color: rgb(255, 255, 255);
+    border-style: none;
+    border-radius:4px;
+}
